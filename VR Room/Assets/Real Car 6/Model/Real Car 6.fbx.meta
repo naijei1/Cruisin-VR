@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: f5d4c869fd0e3a145ad87f9f736834c6
+timeCreated: 1547376831
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BL
+    100002: Bonnet
+    100004: Boot
+    100006: Boot Glass
+    100008: BR
+    100010: Bumper Front
+    100012: Bumper Rear
+    100014: Chassis
+    100016: Door LF
+    100018: Door LF Glass
+    100020: Door LF Mirror
+    100022: Door RF
+    100024: Door RF Glass
+    100026: Door RF Mirror
+    100028: Engine Pointer
+    100030: FL
+    100032: FR
+    100034: Front Glass
+    100036: Fuel Pointer
+    100038: Glasses
+    100040: Left Small Glass
+    100042: LOD1
+    100044: LOD1 1
+    100046: LOD1 10
+    100048: LOD1 11
+    100050: LOD1 12
+    100052: LOD1 13
+    100054: LOD1 2
+    100056: LOD1 3
+    100058: LOD1 4
+    100060: LOD1 5
+    100062: LOD1 6
+    100064: LOD1 7
+    100066: LOD1 8
+    100068: LOD1 9
+    100070: LOD2
+    100072: LOD2 1
+    100074: LOD2 10
+    100076: LOD2 11
+    100078: LOD2 12
+    100080: LOD2 13
+    100082: LOD2 2
+    100084: LOD2 3
+    100086: LOD2 4
+    100088: LOD2 5
+    100090: LOD2 6
+    100092: LOD2 7
+    100094: LOD2 8
+    100096: LOD2 9
+    100098: LOD3
+    100100: Pointers
+    100102: //RootNode
+    100104: Right Small Glass
+    100106: RPM Pointer
+    100108: Speed Pointer
+    100110: Steering
+    100112: Wheels
+    400000: BL
+    400002: Bonnet
+    400004: Boot
+    400006: Boot Glass
+    400008: BR
+    400010: Bumper Front
+    400012: Bumper Rear
+    400014: Chassis
+    400016: Door LF
+    400018: Door LF Glass
+    400020: Door LF Mirror
+    400022: Door RF
+    400024: Door RF Glass
+    400026: Door RF Mirror
+    400028: Engine Pointer
+    400030: FL
+    400032: FR
+    400034: Front Glass
+    400036: Fuel Pointer
+    400038: Glasses
+    400040: Left Small Glass
+    400042: LOD1
+    400044: LOD1 1
+    400046: LOD1 10
+    400048: LOD1 11
+    400050: LOD1 12
+    400052: LOD1 13
+    400054: LOD1 2
+    400056: LOD1 3
+    400058: LOD1 4
+    400060: LOD1 5
+    400062: LOD1 6
+    400064: LOD1 7
+    400066: LOD1 8
+    400068: LOD1 9
+    400070: LOD2
+    400072: LOD2 1
+    400074: LOD2 10
+    400076: LOD2 11
+    400078: LOD2 12
+    400080: LOD2 13
+    400082: LOD2 2
+    400084: LOD2 3
+    400086: LOD2 4
+    400088: LOD2 5
+    400090: LOD2 6
+    400092: LOD2 7
+    400094: LOD2 8
+    400096: LOD2 9
+    400098: LOD3
+    400100: Pointers
+    400102: //RootNode
+    400104: Right Small Glass
+    400106: RPM Pointer
+    400108: Speed Pointer
+    400110: Steering
+    400112: Wheels
+    2300000: BL
+    2300002: Bonnet
+    2300004: Boot
+    2300006: Boot Glass
+    2300008: BR
+    2300010: Bumper Front
+    2300012: Bumper Rear
+    2300014: Chassis
+    2300016: Door LF
+    2300018: Door LF Glass
+    2300020: Door LF Mirror
+    2300022: Door RF
+    2300024: Door RF Glass
+    2300026: Door RF Mirror
+    2300028: Engine Pointer
+    2300030: FL
+    2300032: FR
+    2300034: Front Glass
+    2300036: Fuel Pointer
+    2300038: Left Small Glass
+    2300040: LOD1
+    2300042: LOD1 1
+    2300044: LOD1 10
+    2300046: LOD1 11
+    2300048: LOD1 12
+    2300050: LOD1 13
+    2300052: LOD1 2
+    2300054: LOD1 3
+    2300056: LOD1 4
+    2300058: LOD1 5
+    2300060: LOD1 6
+    2300062: LOD1 7
+    2300064: LOD1 8
+    2300066: LOD1 9
+    2300068: LOD2
+    2300070: LOD2 1
+    2300072: LOD2 10
+    2300074: LOD2 11
+    2300076: LOD2 12
+    2300078: LOD2 13
+    2300080: LOD2 2
+    2300082: LOD2 3
+    2300084: LOD2 4
+    2300086: LOD2 5
+    2300088: LOD2 6
+    2300090: LOD2 7
+    2300092: LOD2 8
+    2300094: LOD2 9
+    2300096: LOD3
+    2300098: Right Small Glass
+    2300100: RPM Pointer
+    2300102: Speed Pointer
+    2300104: Steering
+    3300000: BL
+    3300002: Bonnet
+    3300004: Boot
+    3300006: Boot Glass
+    3300008: BR
+    3300010: Bumper Front
+    3300012: Bumper Rear
+    3300014: Chassis
+    3300016: Door LF
+    3300018: Door LF Glass
+    3300020: Door LF Mirror
+    3300022: Door RF
+    3300024: Door RF Glass
+    3300026: Door RF Mirror
+    3300028: Engine Pointer
+    3300030: FL
+    3300032: FR
+    3300034: Front Glass
+    3300036: Fuel Pointer
+    3300038: Left Small Glass
+    3300040: LOD1
+    3300042: LOD1 1
+    3300044: LOD1 10
+    3300046: LOD1 11
+    3300048: LOD1 12
+    3300050: LOD1 13
+    3300052: LOD1 2
+    3300054: LOD1 3
+    3300056: LOD1 4
+    3300058: LOD1 5
+    3300060: LOD1 6
+    3300062: LOD1 7
+    3300064: LOD1 8
+    3300066: LOD1 9
+    3300068: LOD2
+    3300070: LOD2 1
+    3300072: LOD2 10
+    3300074: LOD2 11
+    3300076: LOD2 12
+    3300078: LOD2 13
+    3300080: LOD2 2
+    3300082: LOD2 3
+    3300084: LOD2 4
+    3300086: LOD2 5
+    3300088: LOD2 6
+    3300090: LOD2 7
+    3300092: LOD2 8
+    3300094: LOD2 9
+    3300096: LOD3
+    3300098: Right Small Glass
+    3300100: RPM Pointer
+    3300102: Speed Pointer
+    3300104: Steering
+    4300000: Chassis
+    4300002: LOD1
+    4300004: LOD2
+    4300006: Bonnet
+    4300008: LOD1
+    4300010: LOD2
+    4300012: Boot
+    4300014: LOD1
+    4300016: LOD2
+    4300018: Boot Glass
+    4300020: Bumper Front
+    4300022: LOD1
+    4300024: LOD2
+    4300026: Bumper Rear
+    4300028: LOD1
+    4300030: LOD2
+    4300032: Door LF Glass
+    4300034: Door LF
+    4300036: LOD1
+    4300038: LOD2
+    4300040: Door LF Mirror
+    4300042: LOD1
+    4300044: LOD2
+    4300046: Door RF
+    4300048: LOD1
+    4300050: LOD2
+    4300052: Door RF Glass
+    4300054: Door RF Mirror
+    4300056: LOD1
+    4300058: LOD2
+    4300060: Steering
+    4300062: LOD1
+    4300064: LOD2
+    4300066: Front Glass
+    4300068: Right Small Glass
+    4300070: Left Small Glass
+    4300072: Speed Pointer
+    4300074: RPM Pointer
+    4300076: Fuel Pointer
+    4300078: Engine Pointer
+    4300080: FL
+    4300082: LOD1
+    4300084: LOD2
+    4300086: FR
+    4300088: LOD1
+    4300090: LOD2
+    4300092: BL
+    4300094: LOD1
+    4300096: LOD2
+    4300098: BR
+    4300100: LOD1
+    4300102: LOD2
+    4300104: LOD3
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
